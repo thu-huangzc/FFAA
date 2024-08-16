@@ -1,2 +1,2 @@
-# ![Description](https://cdn-icons-png.flaticon.com/512/2954/2954659.png) FFAA: Face Forgery Analysis Assistant
+# <img src="https://cdn-icons-png.flaticon.com/512/2954/2954659.png" alt="My Icon" style="width: 1em; height: 1em; vertical-align: baseline;"> FFAA: Face Forgery Analysis Assistant
 Coming soon...
