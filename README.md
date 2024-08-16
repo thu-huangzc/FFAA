@@ -1,2 +1,2 @@
-# FFAA
-Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant
+# ![Description](https://cdn-icons-png.flaticon.com/512/2954/2954659.png) FFAA: Face Forgery Analysis Assistant
+Coming soon...
