@@ -117,7 +117,7 @@ CUDA_VISIBLE_DEVICES=0 python eval_llava.py --benchmark BENCHMARK_NAME --model_n
 ```
 CUDA_VISIBLE_DEVICES=0 python eval.py --benchmark BENCHMARK_NAME --model mistral --generate_num 3 --eval_num -1
 ```
-* BENCHMARK_NAME: dfd, dfdc, dpf, ma, mffdi, pgc, wfir
+* BENCHMARK_NAME: `dfd`, `dfdc`, `dpf`, `ma`, `mffdi`, `pgc`, `wfir`.
 * generate_num: the number of generated answers for each input image. 
 * eval_num: the number of images which will be evaluated. `-1` represents all.
 
