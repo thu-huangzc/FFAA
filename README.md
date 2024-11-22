@@ -1,6 +1,6 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/1925/1925270.png" alt="My Icon" style="width: 1em; height: 1em;"> FFAA: Face Forgery Analysis Assistant
 
-**FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant** [[Paper](https://arxiv.org/abs/2408.10072)][[Project Page](https://ffaa-vl.github.io/)]<br>[<u>Zhengchao Huang</u>](https://github.com/thu-huangzc), [<u>Bin Xia</u>](https://github.com/Zj-BinXia), [<u>Zicheng Lin</u>](https://github.com/chenzhiling9954), [<u>Zhun Mou</u>](https://github.com/rexviv), [<u>Wenming Yang</u>](https://scholar.google.com/citations?hl=zh-CN&user=vsE4nKcAAAAJ), [<u>Jiaya Jia</u>](https://scholar.google.com/citations?user=XPAkzTEAAAAJ&hl=en&oi=ao), 
+**FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant** [[Paper](https://arxiv.org/abs/2408.10072)][[Project Page](https://ffaa-vl.github.io/)]<br>[<u>Zhengchao Huang</u>](https://github.com/thu-huangzc), [<u>Bin Xia</u>](https://github.com/Zj-BinXia), [<u>Zicheng Lin</u>](https://github.com/chenzhiling9954), [<u>Zhun Mou</u>](https://github.com/rexviv), [<u>Wenming Yang</u>](https://scholar.google.com/citations?hl=zh-CN&user=vsE4nKcAAAAJ), [<u>Jiaya Jia</u>](https://scholar.google.com/citations?user=XPAkzTEAAAAJ&hl=en&oi=ao)
 
 
 ## Release
